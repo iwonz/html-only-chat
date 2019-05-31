@@ -1,0 +1,22 @@
+{
+  "name": "html-only-chat",
+  "version": "1.0.0",
+  "description": "Async web chat without JavaScript in browser",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iwonz",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.16.4",
+    "human-date": "^1.4.0",
+    "node-random-name": "^1.0.1",
+    "nodemon": "^1.19.0",
+    "pug": "^2.0.3",
+    "uuid": "^3.3.2",
+    "ip": "^1.1.5"
+  }
+}

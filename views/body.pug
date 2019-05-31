@@ -1,0 +1,14 @@
+style(type='text/css').
+  .chat:not([last-modify='#{lastModify}']) { display: none; }
+  .chat[last-modify='#{lastModify}'] { display: flex; }
+div.chat(last-modify='' + lastModify)
+  != messages
+  div.chat__footer
+    form(action='' + writeUrl method='POST' target='frame')
+      input(type='hidden' name='user_id' value='' + user.id)
+      div.message-box
+        div.message-box__avatar
+          img(src='https://api.adorable.io/avatars/50/' + user.nickname + '.png' alt='' + user.nickname)
+        div.message-box__text
+          textarea(name='message' placeholder='Write something...' required)
+          button Send

@@ -1,0 +1,8 @@
+div.message
+  div.message__avatar
+    img(src='https://api.adorable.io/avatars/50/' + user.nickname + '.png' alt='' + user.nickname)
+  div.message__content
+    div.message__author
+      span.message__author-nickname #{user.nickname}
+      span.message__date #{message.dt}
+    p.message__text #{message.message}
