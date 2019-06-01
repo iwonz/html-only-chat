@@ -26,7 +26,7 @@ Run it:
 npm run start
 ```
 
-Wait for starting and follow to [http://127.0.0.1:3000/](http://127.0.0.1:3000/) (by default) or check your console to see actual link.
+Wait for starting and follow to [http://127.0.0.1:3000](http://127.0.0.1:3000) (by default) or check your console to see actual link.
 
 # Some interesting questions
 How to scroll down the list all the time with messages after redraw? (overflow-anchor I couldn't start)

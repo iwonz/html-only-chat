@@ -118,3 +118,5 @@ app.post('/write', (req, res) => {
 });
 
 app.listen(config.PORT);
+
+console.log(`Server listening on ${config.fullAddress} or http://127.0.0.1:${config.PORT}`);
