@@ -13,9 +13,9 @@ Inspired by [@kkuchta](https://twitter.com/kkuchta) https://github.com/kkuchta/c
 Try https://html-only-chat.glitch.me
 
 ## Offline
-1. Make sure what you have installed Node.js or download it [here](https://nodejs.org/en/download/)
+1. Make sure what you have installed Node.js or [download it](https://nodejs.org/en/download/)
 
-2. Clone repo by:
+2. Clone repo by console command below or [download it](https://github.com/iwonz/html-only-chat/archive/master.zip)
 
 ```bash
 git clone https://github.com/iwonz/html-only-chat.git
