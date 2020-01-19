@@ -10,7 +10,7 @@ Inspired by [@kkuchta](https://twitter.com/kkuchta) https://github.com/kkuchta/c
 # How can you test it?
 
 ## Online
-Try https://html-only-chat.glitch.me
+Go to https://html-only-chat.glitch.me
 
 ## Offline
 1. Make sure what you have installed Node.js or [download it](https://nodejs.org/en/download/)
