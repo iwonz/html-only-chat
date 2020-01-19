@@ -8,6 +8,11 @@ Inspired by [@kkuchta](https://twitter.com/kkuchta) https://github.com/kkuchta/c
 ![demo](http://iwonz.ru/projects/html-only-chat/demo.gif)
 
 # How can you test it?
+
+## Online
+Try https://html-only-chat.glitch.me
+
+## Offline
 Clone repo by:
 
 ```bash
