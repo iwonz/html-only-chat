@@ -13,33 +13,29 @@ Inspired by [@kkuchta](https://twitter.com/kkuchta) https://github.com/kkuchta/c
 Try https://html-only-chat.glitch.me
 
 ## Offline
-1. Make sure what you have installed Node.js or [download it](https://nodejs.org/en/download/)
+Make sure what you have installed Node.js or [download it](https://nodejs.org/en/download/)
 
-2. Clone repo by console command below or [download it](https://github.com/iwonz/html-only-chat/archive/master.zip)
+Clone repo by console command below or [download it](https://github.com/iwonz/html-only-chat/archive/master.zip)
 ```bash
 git clone https://github.com/iwonz/html-only-chat.git
 ```
 
-3. Enter the directory
+Enter the directory
 ```bash
 cd html-only-chat
 ```
 
-4. Install dependencies
+Install dependencies
 ```bash
 npm i
 ```
-or
-```bash
-yarn
-```
 
-5. Run it
+Run it
 ```bash
 npm run start
 ```
 
-5. Wait for starting and follow to [http://127.0.0.1:3000](http://127.0.0.1:3000) (by default) or check your console to see actual link
+Wait for starting and follow to [http://127.0.0.1:3000](http://127.0.0.1:3000) (by default) or check your console to see actual link
 
 # Some interesting questions
 1. How to scroll down the list all the time with messages after redraw? (overflow-anchor I couldn't start)
