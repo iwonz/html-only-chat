@@ -13,17 +13,17 @@ Inspired by [@kkuchta](https://twitter.com/kkuchta) https://github.com/kkuchta/c
 Try https://html-only-chat.glitch.me
 
 ## Offline
-Make sure what you have installed Node.js or [download it](https://nodejs.org/en/download/)
+1. Make sure what you have installed Node.js or [download it](https://nodejs.org/en/download/)
 
-Clone repo by console command `git clone https://github.com/iwonz/html-only-chat.git` or [download it](https://github.com/iwonz/html-only-chat/archive/master.zip)
+2. Clone repo by console command `git clone https://github.com/iwonz/html-only-chat.git` or [download it](https://github.com/iwonz/html-only-chat/archive/master.zip)
 
-Enter the directory by `cd html-only-chat`
+3. Enter the directory by `cd html-only-chat`
 
-Install dependencies by `npm i`
+4. Install dependencies `npm i`
 
-Run it by `npm run start`
+6. Run it `npm run start`
 
-Wait for starting and follow to [http://127.0.0.1:3000](http://127.0.0.1:3000) (by default) or check your console to see actual link
+7. Wait for starting and follow to [http://127.0.0.1:3000](http://127.0.0.1:3000) (by default) or check your console to see actual link
 
 # Some interesting questions
 1. How to scroll down the list all the time with messages after redraw? (overflow-anchor I couldn't start)
