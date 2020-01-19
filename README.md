@@ -15,25 +15,13 @@ Try https://html-only-chat.glitch.me
 ## Offline
 Make sure what you have installed Node.js or [download it](https://nodejs.org/en/download/)
 
-Clone repo by console command below or [download it](https://github.com/iwonz/html-only-chat/archive/master.zip)
-```bash
-git clone https://github.com/iwonz/html-only-chat.git
-```
+Clone repo by console command `git clone https://github.com/iwonz/html-only-chat.git` or [download it](https://github.com/iwonz/html-only-chat/archive/master.zip)
 
-Enter the directory
-```bash
-cd html-only-chat
-```
+Enter the directory by `cd html-only-chat`
 
-Install dependencies
-```bash
-npm i
-```
+Install dependencies by `npm i`
 
-Run it
-```bash
-npm run start
-```
+Run it by `npm run start`
 
 Wait for starting and follow to [http://127.0.0.1:3000](http://127.0.0.1:3000) (by default) or check your console to see actual link
 
